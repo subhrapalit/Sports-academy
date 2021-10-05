@@ -1,0 +1,15 @@
+/* Service section style */
+
+.Service{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 15px;
+    
+}
+
+/* Services section style */
+.Services{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+

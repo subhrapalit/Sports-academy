@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Carlo Ancelotti",
+        "team": "Real Madrid",
+        "salary": 350000,
+        "age": 49,
+        "teach": "Counter Attacking Football",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMFWLrBmdY044L5viQtIqtTENXAKSKb21eQ&usqp=CAU",
+        "id": 1001
+    },
+    {
+        "name": "Jurgen Klopp",
+        "team": "Liverpool",
+        "salary": 250000,
+        "age": 62,
+        "teach": "Pressing Football",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmgqiEb3A5xafQS7b3NLek0l2mrmHMRiWoQ&usqp=CAU",
+        "id": 1002
+    },
+    {
+        "name": "Zinedine Zidane",
+        "team": "Real Madrid",
+        "salary": 300000,
+        "age": 54,
+        "teach": "Attacking Football",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDznOdzzKi4Y8wb84X9LfBKchZxi8lEC_rSg&usqp=CAU",
+        "id": 1003
+    },
+    {
+        "name": "Ricky Ponting",
+        "team": "Australia",
+        "salary": 380000,
+        "age": 60,
+        "teach": "Cricket",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHETylvyr0KfLrLMBPx3RS4Tof63L8LRbrQ&usqp=CAU",
+        "id": 1004
+    },
+    {
+        "name": "Adam Gilchrist",
+        "team": "Australia",
+        "salary": 370000,
+        "age": 61,
+        "teach": "Wicket-keeping",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeYSuPWLOJhtqAWd4befmvhI0fYVbjs5I8g&usqp=CAU",
+        "id": 1005
+    },
+    {
+        "name": "Brett Lee",
+        "team": "Australia",
+        "salary": 350000,
+        "age": 59,
+        "teach": "Fast Bowling",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsTMedzoU45IhdFhW7x5pPELqdOeN2GKBMQ&usqp=CAU",
+        "id": 1006
+    },
+    {
+        "name": "Glen McGrath",
+        "team": "Australia",
+        "salary": 30000,
+        "age": 58,
+        "teach": "Bowling",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3tYgof0YEh-M6E7f0GpT_QlNOX-i0TZqi5w&usqp=CAU",
+        "id": 1007
+    },
+    {
+        "name": "Steve Waugh",
+        "team": "Australia",
+        "salary": 490000,
+        "age": 50,
+        "teach": "Batting",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OVPByvhiJpJxFHx1fINr2XgDWAa1GntJgg&usqp=CAU",
+        "id": 1008
+    },
+    {
+        "name": "Micale Feleps",
+        "team": "USA",
+        "salary": 450000,
+        "age": 57,
+        "teach": "Swimming",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxCpqIMJRE3WO0iYUlrCm00tJ0PaBTitShg&usqp=CAU",
+        "id": 1009
+    },
+    {
+        "name": "Usain Bolt",
+        "team": "Jamaica",
+        "salary": 470000,
+        "age": 37,
+        "teach": "Running",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqzAnFvFu6NRzvq_j8VlJPMs4kOOiDoDQRQ&usqp=CAU",
+        "id": 1010
+    },
+    {
+        "name": "Bear Gryills",
+        "team": "USA",
+        "salary": 250000,
+        "age": 51,
+        "teach": "Adventure",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzl0yLirmJNtbM0BvOeUXbf68krA-jMAQgCQ&usqp=CAU",
+        "id": 1011
+    },
+    {
+        "name": "Ajay Thakur",
+        "team": "India",
+        "salary": 330000,
+        "age": 40,
+        "teach": "Kabadi",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SUFOJ2AKlJruNwZ1YW6qbblyCY4wPVGgVw&usqp=CAU",
+        "id": 1012
+    }
+]
